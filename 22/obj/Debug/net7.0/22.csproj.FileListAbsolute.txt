@@ -1,0 +1,14 @@
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\bin\Debug\net7.0\22.exe
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\bin\Debug\net7.0\22.deps.json
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\bin\Debug\net7.0\22.runtimeconfig.json
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\bin\Debug\net7.0\22.dll
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\bin\Debug\net7.0\22.pdb
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\obj\Debug\net7.0\22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\obj\Debug\net7.0\22.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\obj\Debug\net7.0\22.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\obj\Debug\net7.0\22.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\obj\Debug\net7.0\22.dll
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\obj\Debug\net7.0\refint\22.dll
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\obj\Debug\net7.0\22.pdb
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\obj\Debug\net7.0\22.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Рабочий стол\My_projects\22\obj\Debug\net7.0\ref\22.dll
