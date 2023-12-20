@@ -1,15 +1,14 @@
 ﻿// сравнение чесел (> = <)
 
+System.Console.WriteLine("Введите первое число: ");
+int firstNumber = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("Введите второе число: ");
+int secondNumber = Convert.ToInt32(Console.ReadLine());
 
-int firstNumber = 5;
-int firstNumber1 = 3;
-int secondNumber = 6;
-int secondNumber1 = 3;
 
 if (firstNumber < secondNumber)
-    Console.WriteLine ("Первое число `5` меньше чем второе число `6`");
-
-if (firstNumber1 < secondNumber)
-    Console.WriteLine("Первое число `3` меньше чем второе число `6`");
-if (firstNumber1 == secondNumber1)
-    Console.WriteLine ("Введенные числа равны `3`");
+    Console.WriteLine ($"Первое число {firstNumber} меньше чем второе число {secondNumber}");
+if (firstNumber > secondNumber)
+    Console.WriteLine ($"Первое число {firstNumber} больше чем второе число {secondNumber}");
+if (firstNumber == secondNumber)
+    Console.WriteLine ("Введенные числа равны");
