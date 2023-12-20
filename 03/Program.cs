@@ -16,27 +16,3 @@ else
 {
     Console.WriteLine("Введите число по-больше");
 }
-
-/*  // с этим нужно еще разобраться что это такое!
-void FilltArray(int[] collection)
-{
-   int length = collection.Length;
-   int index = 0;
-    while (index < length)
-    {
-      collection[index] = new Random().Next(1,10); 
-      index++;
-    }
-}
-
-void PrintArray(int[] col)
-{
-   int count = col.Length;
-   int position = 0;
-    while (position < count)
-    {
-        Console.WriteLine(col[position]); 
-        position++;
-    }
-}
- */
